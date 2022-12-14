@@ -1,0 +1,6 @@
+framework module Pods_effective_lab_ios {
+  umbrella header "Pods-effective_lab_ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
